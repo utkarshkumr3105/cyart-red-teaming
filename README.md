@@ -4,7 +4,7 @@ This repository contains practical cybersecurity tasks completed as part of the 
 
 ## Structure
 
-##Week 2
+## Week 2
   - Consolidated practical report covering Tasks 1–8
   - Workflow and incident response diagrams
   - Screenshots and documentation
@@ -22,7 +22,7 @@ This repository contains practical cybersecurity tasks completed as part of the 
 All work was conducted in a controlled lab environment for educational purposes.
 
 
-##Week 3
+## Week 3
 # Red Team Practical Application & Capstone Project
 
 ## Overview
